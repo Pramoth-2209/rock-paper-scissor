@@ -162,10 +162,11 @@ input{
     font-size: 30px;
     box-shadow: -10px 10px 1px black;
 }
-.plbl input{
+.plbl select{
     border: 2px solid black;
     border-radius: 10px;
-    height: 30px;
+    height: 60px;
+    width: 140px;
     margin-right: 10px;
     padding: 12px;
 }
@@ -175,7 +176,7 @@ input{
     border-radius: 10px;
     font-weight: bolder
 }
-.plbl input:hover{
+.plbl select:hover{
      box-shadow: -5px 5px 1px black;
     
 }
